@@ -1,7 +1,7 @@
 {
-  "main": "server.js",
+  "main": "diamond.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node diamond.js"
   },
   "dependencies": {
     "aoi.js": "^6.5.6",
