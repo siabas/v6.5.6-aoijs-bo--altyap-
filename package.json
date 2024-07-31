@@ -1,0 +1,17 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aoi.js": "^6.5.6",
+    "fs": "^0.0.2",
+    "node-fetch": "^3.2.6",
+    "path": "^0.12.7",
+    "@akarui/aoi.db": "^1.0.0",
+    "aoi.parser": "^1.2.6"
+  },
+  "engines": {
+    "node": "16.6"
+  }
+}
